@@ -1,0 +1,19 @@
+https://thepixelcurve.com/html/techwix/techwix/index.html
+
+https://www.jquerypost.com/demo/animated-circle-infographics-with-jquery-410/
+
+
+
+#carouselContainer {
+    /* position: absolute; */
+    margin-left: -0px;
+    margin-top: 0px;
+    /* left: 50%; */
+    top: 0%;
+    width: 500px !important;
+    height: 300px;
+}
+
+https://prium.github.io/elixir/v3.0.0/homes/header-static.html
+https://prium.github.io/freya/
+
